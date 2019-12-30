@@ -1,0 +1,9 @@
+html,
+body,
+#app,
+.el-container {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-size: 13px;
+}
